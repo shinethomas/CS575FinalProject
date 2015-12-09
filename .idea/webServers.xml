@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2479d2cb-4f92-4393-b713-7040de47fe25" name="Build" url="http://localhost:63342/CS575FinalProject/BookManager.html">
+        <fileTransfer mountedRoot="C:\Users\Shine\WebstormProjects\CS575FinalProject" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
